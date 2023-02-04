@@ -1,2 +1,2 @@
 
-print("gello, worl")
+print("gello, world")
